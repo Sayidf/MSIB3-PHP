@@ -1,1 +1,1 @@
-Silahkan tekan branch untuk melihat tugas
+Tekan branch untuk melihat tugas
